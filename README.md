@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Developer Notes
+
+> Used angular as a code base
+> ngxspinner is used to show the loading
+> mobile first approach is used and all styling is written gloablly
+> for layouts- BLOCK ELEMENT MODIFIER(BEM) is used.
+> sass is used as a css preprocessor but i have not used css scss variables, instead css variables are used
+> heroku link--> https://akash-spacex-application.herokuapp.com/#/launches?limit=100
